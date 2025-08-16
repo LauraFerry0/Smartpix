@@ -1,0 +1,6 @@
+ALLOWED_ORIGINS=http://localhost:5173
+
+MONGO_URI=mongodb+srv://<user>:<password>@<cluster>.mongodb.net/?retryWrites=true&w=majority
+MONGO_DB=smartpix
+
+OPENAI_API_KEY
